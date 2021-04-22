@@ -14,7 +14,7 @@ public class exam02_2 {
 		int n = Integer.parseInt(br.readLine());
 		
 		Integer[] arr = new Integer[n];
-		
+		 
 		for (int i = 0; i < arr.length; i++) {
 			arr[i] = Integer.parseInt(br.readLine()); 
 		}
